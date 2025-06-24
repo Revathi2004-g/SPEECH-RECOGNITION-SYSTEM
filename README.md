@@ -30,4 +30,4 @@ If we have arduino board we can write arduino code in arduino IDE and can interf
 2.Tinkercad -Here I connected two Leds red named as Light and Blue named as Fan -connected Red LED to pin 2 and BLUE LED to pin 3 -wrote code accoringlly -by giving fan on ,fan off,light off,light on in serial monitor we can observe that RED(light) and BLUE(Fan) LED's will ON and OFF accordingly.
 
 output image: 
-
+![Image](https://github.com/user-attachments/assets/1f9b2861-0b33-493f-8ba6-0d5ae5a3ea6c)
