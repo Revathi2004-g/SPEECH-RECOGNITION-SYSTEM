@@ -25,3 +25,9 @@ I done this through two ways due to lack of hardware components(arduino and leds
 
 output image:
 ![Image](https://github.com/user-attachments/assets/17df3010-5cd7-44a9-bd10-47f5aeb078aa)
+If we have arduino board we can write arduino code in arduino IDE and can interface this python code to the board and can observe the output.
+
+2.Tinkercad -Here I connected two Leds red named as Light and Blue named as Fan -connected Red LED to pin 2 and BLUE LED to pin 3 -wrote code accoringlly -by giving fan on ,fan off,light off,light on in serial monitor we can observe that RED(light) and BLUE(Fan) LED's will ON and OFF accordingly.
+
+output image: 
+
