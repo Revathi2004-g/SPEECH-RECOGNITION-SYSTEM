@@ -24,3 +24,4 @@ I done this through two ways due to lack of hardware components(arduino and leds
 -when i say light on it displays Light is ON -when i say light on it displays Light is OFF
 
 output image:
+![Image](https://github.com/user-attachments/assets/17df3010-5cd7-44a9-bd10-47f5aeb078aa)
