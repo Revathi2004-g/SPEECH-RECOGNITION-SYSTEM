@@ -1,0 +1,20 @@
+SPEECH RECOGNITION SYSTEM
+I done this through two ways due to lack of hardware components(arduino and leds),I done this throgh Pycharm using python code and tinkercad.
+
+1.Pycharm(using python):
+-Installed speech recognition library ,pyaudio to take my audio input.
+-I included fan off,fan on,light off,light on in my oython code
+-so when i run the code it ask me for input 
+-when i say fan on it displays Fan is ON
+-when i say fan off it displays Fan is OFF
+-when i say light on it displays Light is ON
+-when i say light on it displays Light is OFF
+
+If we have arduino board we can write arduino code in arduino IDE and can interface this python code to the board and can observe the output.
+
+
+2.Tinkercad
+-Here I connected two Leds red named as Light and Blue named as Fan 
+-connected Red LED to pin 2 and BLUE LED to pin 3 
+-wrote code accoringlly
+-by giving fan on ,fan off,light off,light on in serial monitor we can observe that RED(light) and BLUE(Fan) LED's will ON and OFF accordingly.
